@@ -36,11 +36,16 @@ with NATO chief Mark Rutte and Trump's envoys Steve Witkoff and Jared
 Kushner, pressing for legally binding security guarantees for Ukraine
 after any ceasefire — and for Europe to be in the room when the war's
 end is negotiated. Britain announced new support including long-range
-drones.
+drones. The European Commission also proposed a €45bn loan for Ukraine
+for 2027 — €25bn for defence, €20bn for budget support — to cover
+two-thirds of Kyiv's estimated €70bn funding gap; it still needs EU
+leaders' and Parliament's approval.
 
 Sources: Reuters, 19 Nov ("Ukraine's European allies meet in Berlin
 in show of support", James Mackenzie). The meeting is the "Coalition
-of the Willing" session held on Thursday 19 Nov.
+of the Willing" session held on Thursday 19 Nov. Loan: Commission
+proposal announced 18 Nov, reported 19 Nov (Euronews/AP, AnewZ,
+Defense News) — €45bn for 2027, €25bn military / €20bn budget.
 
 ## 4. FIJI — A NATION OUT OF WATER (Oceania · Suva)
 

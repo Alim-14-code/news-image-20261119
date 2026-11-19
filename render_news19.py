@@ -91,7 +91,9 @@ STORIES = [
         head="EUROPE DEMANDS A SEAT",
         deck=("The \u2018Coalition of the Willing\u2019 met in Berlin with NATO "
               "chief Rutte and Trump\u2019s envoys, pressing for binding "
-              "security guarantees for Ukraine after any ceasefire."),
+              "security guarantees. The Commission proposed a "
+              "\u20ac45bn loan for 2027 \u2014 \u20ac25bn defence, "
+              "\u20ac20bn budget."),
         src="REUTERS \u2014 19 NOV",
     ),
     dict(
