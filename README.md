@@ -1,3 +1,9 @@
+[![news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/Alim-14-code/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/Alim-14-code/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119)
+
+Entry for the [news-image-20261119 bounty](https://make.fun/bounty/news-image-20261119) on make.fun.
+
 # news-image-20261119 — "The World in One Page"
 
 make.fun daily news-image competition, $250 pool, top 50 paid.
