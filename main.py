@@ -1,12 +1,9 @@
 #!/usr/bin/env python3
-"""Entry point for make.fun news-image-20261119, round 2.
+"""Entry point for make.fun news-image-20261119 (round 3).
 
-Copies the pre-rendered entry.png (built by render_r2.py in this
-repository) to the harness output directory. Standard library only,
-no network, no clock, fully deterministic — both grading runs write
-byte-identical output.
-
-    mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
+Copies the pre-rendered entry.png (built by render_ni19_r3.py in
+this repo) to the harness output directory. Standard library only,
+no network, no clock, fully deterministic.
 """
 
 import os

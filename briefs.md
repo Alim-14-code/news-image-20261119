@@ -1,10 +1,12 @@
-# Briefs — news-image-20261119 round 2 (Thursday 19 November 2026)
+# Briefs — news-image-20261119 round 3 (Thursday 19 November 2026)
 
 40 stories, 7 regions (Europe 7, Asia 14, Middle East 4, Africa 6,
 Americas 5, Oceania 1, World 3). Every story was verified against
 wire coverage or the day's news roundups on 19 Nov 2026 (WIB).
 Dates below are reporting dates; see "Verification notes" for the
-items deliberately left out.
+items deliberately left out. Same verified story list as round 2 —
+round 3 changes the craft (real-map dots, redrawn art, region bar),
+not the facts.
 
 ## The 13 cards
 
